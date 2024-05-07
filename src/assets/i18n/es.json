@@ -1,0 +1,16 @@
+{
+  "tarjetasExamen": {
+    "titulo": "Exámenes de Estado Mental"
+  },
+  "barraHerramientas": {
+    "inicio": "Inicio",
+    "examenesEstadoMental": "Exámenes de Estado Mental"
+  },
+  "paginaInicio": {
+    "titulo": "El HIGN promueve la atención médica equitativa para adultos mayores mediante la educación del personal y futuros profesionales, informando políticas, avanzando en la investigación y proporcionando programas comunitarios."
+  },
+  "paginaNoEncontrada": {
+    "rutaNoEncontrada": "Ruta no encontrada",
+    "volverInicio": "Volver a inicio"
+  }
+}

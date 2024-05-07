@@ -1,0 +1,16 @@
+{
+  "tarjetasExamen": {
+    "titulo": "Mental State Exams"
+  },
+  "barraHerramientas": {
+    "inicio": "Home",
+    "examenesEstadoMental": "Mental State Exams"
+  },
+  "paginaInicio": {
+    "titulo": "HIGN advances equitable health care for older adults by educating the workforce and future professionals, informing policy, advancing research, and providing community programs."
+  },
+  "paginaNoEncontrada": {
+    "rutaNoEncontrada": "Not found Route",
+    "volverInicio": "Return to home"
+  }
+}

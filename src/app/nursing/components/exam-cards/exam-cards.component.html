@@ -1,0 +1,11 @@
+<div class="card-container" aria-label="Cards container">
+  <mat-card *ngFor="let exam of exams">
+    <img mat-card-image [src]="getPatientPhotoUrl(exam.patientId)" alt="Photo of a Patient">
+    <mat-card-content>
+      <h2>{{ getPatientFullName(exam.patientId) }}</h2>
+      <p><strong>Exam Date:</strong> {{ exam.examDate }}</p>
+      <p><strong>Examiner:</strong> {{ getExaminerFullName(exam.examinerId) }}</p>
+      <p><strong>Total Score:</strong> {{ calculateTotalScore(exam) }}</p>
+    </mat-card-content>
+  </mat-card>
+</div>

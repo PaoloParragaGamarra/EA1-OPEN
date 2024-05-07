@@ -1,0 +1,25 @@
+.mat-toolbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.section-controller {
+  display: flex;
+  gap: 1rem;
+}
+
+span:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+  transition: ease-in-out 1s;
+  color: black;
+}
+
+.image {
+  height: 40px;
+  margin-right: 10px;
+}
+.language-toggle{
+  display: flex;
+  justify-content: center;
+}

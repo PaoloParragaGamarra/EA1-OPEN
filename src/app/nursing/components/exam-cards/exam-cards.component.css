@@ -1,0 +1,27 @@
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+mat-card {
+  width: 300px; /* Ancho de la tarjeta */
+  margin: 10px; /* Margen entre las tarjetas */
+}
+
+mat-card img {
+  max-width: 100%; /* Ajustar la imagen al ancho de la tarjeta */
+  height: auto; /* Mantener la proporción de aspecto de la imagen */
+}
+
+mat-card-content {
+  text-align: center; /* Alinear el contenido al centro */
+}
+
+h2 {
+  margin-top: 0; /* Eliminar el margen superior predeterminado */
+}
+
+p {
+  margin: 5px 0; /* Espaciado entre párrafos */
+}
